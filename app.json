@@ -2,9 +2,11 @@
   "expo": {
     "scheme": "acme",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "name": "native_todo_app",
-    "slug": "native_todo_app"
+    "slug": "native_todo_app",
+    "newArchEnabled": true
   }
 }
