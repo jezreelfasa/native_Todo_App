@@ -27,7 +27,7 @@ const router = useRouter()
   
   useEffect(() => {
     const backAction = () => {
-      // Do nothing and return true to disable the back button
+      // Do nothing and return true to disable the back button. This feature was introduced because I did not want the native back button on mobile to be functional on this app.
       return true;
     };
 

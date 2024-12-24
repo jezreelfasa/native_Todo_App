@@ -21,7 +21,7 @@ const login = () => {
       return;
     }
     
-    await logIn(email, password); // Call your login function
+    await logIn(email, password); // Calling the login function
     Alert.alert("Logged in successfully");
     router.push(`/home`);
   } catch (error) {

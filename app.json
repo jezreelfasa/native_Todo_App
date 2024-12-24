@@ -7,6 +7,22 @@
     ],
     "name": "native_todo_app",
     "slug": "native_todo_app",
-    "newArchEnabled": true
+    "newArchEnabled": true,
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b3dafa3b-0293-4a9b-ad58-98c761f7a771"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b3dafa3b-0293-4a9b-ad58-98c761f7a771"
+    },
+    "android": {},
+    "ios": {}
   }
 }

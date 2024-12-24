@@ -2,7 +2,7 @@ import { Stack } from 'expo-router'
 import { useFonts } from 'expo-font'
 
 export const unstable_settings = {
-  initalRouteName: "todoscreen"
+  initalRouteName: "login"
   
 }
 

@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import { router } from 'expo-router'
+import { useRouter } from 'expo-router'
 import { View, Text, Alert, TextInput,TouchableOpacity, SafeAreaView, Image, StatusBar, ScrollView} from 'react-native'
 import { signUp } from '../services/services';
 import { useRouter, Stack } from 'expo-router'
 import {icons,COLORS,SIZES,SHADOWS} from '../constants'
 import styles from'../style/Styles'
-import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
+//import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons';
 
 
 
