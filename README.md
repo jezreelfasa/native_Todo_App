@@ -22,7 +22,7 @@ To clone and run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/todo-app.git
+git clone [https://github.com/jezreelfasa/native_Todo_App.git]
 Navigate into the project directory:
 bash
 Copy code
